@@ -37,16 +37,10 @@
     <Compile Include="Docking\DockPanel.SplitterDragHandler.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Docking\DockPanel.DragHandler.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\DockPanel.DragHandler.cs" />
     <Compile Include="Docking\DockPanelColorPalette.cs" />
-    <Compile Include="Docking\DragForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Docking\DockPanel.MdiClientController.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\DragForm.cs" />
+    <Compile Include="Docking\DockPanel.MdiClientController.cs" />
     <Compile Include="Docking\AutoHideStripBase.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -60,18 +54,14 @@
     <Compile Include="Docking\IPaintingService.cs" />
     <Compile Include="Docking\LayoutUtils.cs" />
     <Compile Include="Docking\PatchController.cs" />
-    <Compile Include="Docking\ThemeBase.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\ThemeBase.cs" />
     <Compile Include="Docking\VisualStudioColorTable.cs" />
     <Compile Include="Docking\DockPanel.AutoHideWindow.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Docking\VisibleNestedPaneCollection.cs" />
     <Compile Include="Docking\DockAreasEditor.cs" />
-    <Compile Include="Docking\DockContent.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Docking\DockContent.cs" />
     <Compile Include="Docking\DockContentCollection.cs" />
     <Compile Include="Docking\DockContentHandler.cs" />
     <Compile Include="Docking\DockPanel.DockDragHandler.cs">
@@ -83,15 +73,11 @@
     <Compile Include="Docking\DockPane.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="Docking\DockPaneCaptionBase.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\DockPaneCaptionBase.cs" />
     <Compile Include="Docking\DockPaneCollection.cs" />
     <Compile Include="Docking\DockPanel.cs" />
     <Compile Include="Docking\DockPanelExtender.cs" />
-    <Compile Include="Docking\DockPanel.Persistor.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\DockPanel.Persistor.cs" />
     <Compile Include="Docking\DockPane.SplitterControl.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -102,18 +88,14 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Docking\DockWindowCollection.cs" />
-    <Compile Include="Docking\DummyControl.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\DummyControl.cs" />
     <Compile Include="Docking\Enums.cs" />
     <Compile Include="Docking\DockContentEventArgs.cs" />
     <Compile Include="Docking\FloatWindow.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Docking\FloatWindowCollection.cs" />
-    <Compile Include="Docking\DockPanel.FocusManager.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\DockPanel.FocusManager.cs" />
     <Compile Include="Docking\Interfaces.cs" />
     <Compile Include="Docking\Measures.cs" />
     <Compile Include="Docking\NestedDockingStatus.cs" />
@@ -125,9 +107,7 @@
     <Compile Include="Docking\Helpers\ResourceHelper.cs" />
     <Compile Include="Docking\Helpers\Win32Helper.cs" />
     <Compile Include="Docking\VisualStudioToolStripRenderer.cs" />
-    <Compile Include="Docking\VisualStudioToolStripExtender.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Docking\VisualStudioToolStripExtender.cs" />
     <Compile Include="Docking\VisualStudioToolStripExtender.Designer.cs">
       <DependentUpon>VisualStudioToolStripExtender.cs</DependentUpon>
     </Compile>
